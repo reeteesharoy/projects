@@ -5,6 +5,7 @@ import newspaper
 import json
 import nltk
 nltk.download('punkt')
+
 #Ask for user input
 url = input("Link of the article:  " )
 
